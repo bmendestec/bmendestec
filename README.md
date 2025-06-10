@@ -40,11 +40,12 @@ Currently working at **Philips**, I divide my time between software development 
 * [**Task App Manager (Frontend)**](https://github.com/bmendestec/task-app-frontend)
   A full-stack task manager using React, Fastify, and PostgreSQL with authentication and reusable components.
 
+* [**Next.js Project (Frontend)**](https://github.com/bmendestec/storeven-frontend)
+  A new project built with **Next.js** and **JavaScript**, focused on performance, server-side rendering, and developer experience. *(Repository coming soon)*
+  
 * [**Task App API (Backend)**](https://github.com/bmendestec/task-app-backend)
   RESTful API built with Fastify and PostgreSQL including authentication, error handling, and automated tests with **Jest**.
 
-* [**Next.js Project (Developing)**](https://github.com/bmendestec/storeven-frontend)
-  A new project built with **Next.js** and **TypeScript**, focused on performance, server-side rendering, and developer experience. *(Repository coming soon)*
 
 ---
 
