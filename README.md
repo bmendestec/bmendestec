@@ -43,7 +43,7 @@ Currently working at **Philips**, I divide my time between software development 
 * [**Task App API (Backend)**](https://github.com/bmendestec/task-app-backend)
   RESTful API built with Fastify and PostgreSQL including authentication, error handling, and automated tests with **Jest**.
 
-* [**Next.js Project (Coming Soon)**](#)
+* [**Next.js Project (Developing)**](https://github.com/bmendestec/storeven-frontend)
   A new project built with **Next.js** and **TypeScript**, focused on performance, server-side rendering, and developer experience. *(Repository coming soon)*
 
 ---
